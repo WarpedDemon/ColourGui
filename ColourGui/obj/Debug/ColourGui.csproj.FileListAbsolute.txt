@@ -1,0 +1,12 @@
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\bin\Debug\ColourGui.exe.config
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\bin\Debug\ColourGui.exe
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\bin\Debug\ColourGui.pdb
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\obj\Debug\ColourGui.csprojResolveAssemblyReference.cache
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\obj\Debug\ColourGui.Form1.resources
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\obj\Debug\ColourGui.Properties.Resources.resources
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\obj\Debug\ColourGui.csproj.GenerateResource.Cache
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\obj\Debug\ColourGui.csproj.CoreCompileInputs.cache
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\obj\Debug\ColourGui.exe
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\obj\Debug\ColourGui.pdb
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WarpedDemon\source\repos\ColourGui\ColourGui\bin\Debug\Newtonsoft.Json.xml

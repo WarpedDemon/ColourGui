@@ -1,0 +1,1 @@
+[{"name":"Red","hexvalue":"#ff0400","r":255, "g":4,"b":0},{"name":"Orange","hexvalue":"#ff6e00","r":255,"g":110,"b":0},{"name":"Yellow","hexvalue":"#fffa00","r":255,"g":250,"b":0},{"name":"Green","hexvalue":"#7fff00","r":127,"g":255,"b":0},{"name":"Blue","hexvalue":"#4286f4","r":66,"g":134,"b":244},{"name":"Purple","hexvalue":"#6600ff","r":102,"g":0,"b":255}]
